@@ -1,0 +1,41 @@
+<Instance of MyButton, address 140065651154896:
+    _ListTree__visited={}
+
+....<Class MyButton, address 15173520:
+        __doc__=<>
+
+........<Class ListTree, address 15142128:
+            _ListTree__attrnames=<function ListTree.__attrnames at 0x7f6393625790>
+
+............<Class object, address 9496864:
+                __class__=<>
+............>........>
+........<Class Button, address 15562832:
+            __doc__=<>
+
+............<Class Widget, address 15560944:
+                __doc__=<>
+
+................<Class BaseWidget, address 15547872:
+                    __doc__=<>
+
+....................<Class Misc, address 15536992:
+                        _Misc__winfo_getint=<function Misc.__winfo_getint at 0x7f6392cd3d30>
+
+........................<Class object:, address 9496864: (see above)>
+....................>................>
+................<Class Pack, address 15542656:
+                    __dict__=<>
+
+....................<Class object:, address 9496864: (see above)>
+................>
+................<Class Place, address 15546336:
+                    __dict__=<>
+
+....................<Class object:, address 9496864: (see above)>
+................>
+................<Class Grid, address 15560000:
+                    __dict__=<>
+
+....................<Class object:, address 9496864: (see above)>
+................>............>........>....>>
